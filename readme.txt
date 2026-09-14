@@ -2,12 +2,12 @@ PLATE MAP NAMING CONVENTIONS (.csv)
 
 calibrator wells 
     should be named one of the following: "cal|calibrator|std|standard" 
-    should be numbered 1-9 where 1 is neat, 2-8 are 4fold serial dilutions, and 9 is blank 
+    should be numbered 1-8 where 1 is neat, 2-7 are 4fold serial dilutions, and 8 is blank 
     example: cal1, cal2, cal3 ...
 
     if serial dilution is not 4, change "Dilution factor" to the appropriate integer
     if calibrator 1 is not neat, uncheck "cal 1 is neat"
-    if calibrator 9 is not blank, uncheck "cal 9 is blank"
+    if calibrator 8 is not blank, uncheck "cal 8 is blank"
 
 control wells
      should be named "cntrl"
